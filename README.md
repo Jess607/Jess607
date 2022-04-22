@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jess607
-- 👀 I’m interested in data analytics/ data science
-- 🌱 I’m currently improving on my data analytics skills using python, R as well as microsoft excel and tableau
-- 💞️ I’m looking to collaborate on projects that involve analyzing big data most especially data connected with energy usage as well as finance 
+- 👋 Hi, I’m Jessica, but please call me Jess
+- 👀 I’m passionate about using data to solve pressing issues in the energy industry
+- 🌱 I’m proficient in the use of the python and SQL programming languages.
+- 💞️ I’m looking to collaborate on projects that involve analyzing big data most especially data connected with energy usage and consumption.
 - 📫 You can reach me via email on ogwujessica2222@gmail.com
 
 <!---
