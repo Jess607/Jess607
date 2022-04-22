@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica, but please call me Jess
 - 👀 I’m passionate about using data to solve pressing issues in the energy industry
-- 🌱 I’m proficient in the use of the python and SQL programming languages.
+- 🌱 I’m proficient in the use of the python programming language as well as the Structured Query Language(SQL).
 - 💞️ I’m looking to collaborate on projects that involve analyzing big data most especially data connected with energy usage and consumption.
 - 📫 You can reach me via email on ogwujessica2222@gmail.com
 
